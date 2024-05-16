@@ -1,0 +1,17 @@
+{
+    "name": "Christine Y",
+    "short_name": "Christine",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://christiy625.github.io/",
+    "description": "Page for christie",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://christiy625.github.io/img/avatar.png",
+            "sizes": "1024x1024"
+        }
+    ]
+}
